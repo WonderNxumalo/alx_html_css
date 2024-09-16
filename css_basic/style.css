@@ -1,11 +1,3 @@
-/*.grid-container {
-    display: grid;
-    grid-template-areas: 
-    'header header'
-    'article aside'
-    'footer footer';
-}*/
-
 .flex-container {
     display: flex;
     flex-direction:
@@ -60,4 +52,3 @@ footer {
     cursor: pointer;
     text-decoration: none;
 }
-
